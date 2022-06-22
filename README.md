@@ -33,7 +33,7 @@ This program allows the user to manage movies/gifs.
 
 ### Installing
 
-* Download the [Stable](https://github.com/itssigron/Magshimim_GifMaker/releases/tag/v1.0.0) release
+* Download the [Stable](https://github.com/itssigron/Magshimim-GifMaker/releases/tag/v1.0.0) release
 
 ### Executing program
 
