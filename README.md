@@ -2,7 +2,7 @@
 
 ## Description
 
-Final project for Magshimim (Israel National Cyber ​​Enrichment Program)  
+Final project for Magshimim's first year (Israel National Cyber Education Program)  
 This program allows the user to manage movies/gifs.  
 
 # List of features:
